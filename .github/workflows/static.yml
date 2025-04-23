@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plano Renda Extra: 1 Mês para Virar o Jogo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #2d89ef;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    section {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background: white;
+    }
+    h1, h2 {
+      color: #2d89ef;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .cta-button {
+      display: block;
+      width: fit-content;
+      margin: 30px auto;
+      padding: 15px 25px;
+      background: #28a745;
+      color: white;
+      font-size: 18px;
+      border-radius: 5px;
+      text-align: center;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #2d89ef;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Plano Renda Extra: 1 Mês para Virar o Jogo</h1>
+    <p>Comece hoje a mudar sua vida financeira!</p>
+  </header>
+
+  <section>
+    <h2>O que você vai encontrar no eBook:</h2>
+    <ul>
+      <li>Semana 1: Organização e primeiros passos</li>
+      <li>Semana 2: Primeira fonte de renda</li>
+      <li>Semana 3: Como escalar seus ganhos</li>
+      <li>Semana 4: Consolidar resultados e pensar no futuro</li>
+      <li>Bônus: apps, ideias de renda passiva e redes de apoio</li>
+    </ul>
+
+    <h2>Para quem é este plano:</h2>
+    <ul>
+      <li>Quem quer gerar renda, mas não sabe por onde começar</li>
+      <li>Quem está cansado de promessas milagrosas</li>
+      <li>Quem tem pouco tempo e precisa de algo prático</li>
+    </ul>
+
+    <h2>Promoção especial de lançamento:</h2>
+    <p><strong>De R$49,90 por apenas R$19,90</strong><br>Acesso imediato e vitalício com garantia de 7 dias.</p>
+
+    <a href="#" class="cta-button">QUERO VIRAR O JOGO AGORA</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Plano Renda Extra. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
